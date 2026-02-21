@@ -1,6 +1,12 @@
 
 #include <stdio.h>
+
+/*
+  ÂDÃnde se almacena? En el stack (pila)
+  No fallo :) 
+*/
 int main(){
-    // Resolver ejercicio 10
-    return 0;
+	int gigante[10000000];
+	
+	return 0;
 }
